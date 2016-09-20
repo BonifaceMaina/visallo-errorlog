@@ -1,0 +1,1098 @@
+Apache Maven 3.3.9
+Maven home: /usr/share/maven
+Java version: 1.8.0_102, vendor: Oracle Corporation
+Java home: /usr/lib/jvm/java-8-openjdk-amd64/jre
+Default locale: en_US, platform encoding: UTF-8
+OS name: "linux", version: "4.4.0-kali1-amd64", arch: "amd64", family: "unix"
+[INFO] Error stacktraces are turned on.
+[INFO] Scanning for projects...
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-common-rdf:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-common:pom:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-config-example:pom:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-core:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-core-test:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-model-queue-inmemory:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-model-vertexium:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-model-vertexium-elasticsearch:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-model-vertexium-inmemory:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-core-plugins-group:pom:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-core-group:pom:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-dev-cli:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-dev-jetty-server:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-dev:pom:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-gpw-email-extractor:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-gpw-mime-type-ontology-mapper:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-gpw-phone-number-extractor:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-gpw-reindex:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-gpw-tika-mime-type:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-gpw-tika-text-extractor:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-gpw-zipcode-extractor:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-graph-property-worker-plugins-group:pom:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-graph-property-worker-plugin-base:pom:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-graph-property-worker-plugin-test:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-graph-property-worker-group:pom:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-cli:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-tools-import:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-tools-ontology-ingest-common:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-tools-ontology-ingest-codegen:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-tools-ontology-ingest:pom:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-tools-owl:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-tools-rdf-import:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-tools-reindex:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-tools-group:pom:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-web:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-web-test:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-jetty-server:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-web-server-base:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-web-server-group:pom:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-web-war:war:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-web-admin-import-rdf:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-web-plugins-admin-user-property-auth:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-web-plugins-admin-user-property-privileges:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-web-plugins-admin-user-tools:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-web-auth-username-only:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-web-auth-username-password:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-web-change-email:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-web-change-password:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-web-plugins-group:pom:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-client-api:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-client-api:3.0-SNAPSHOT (/root/visallo/web/client-api/pom.xml) points at org.visallo:visallo-web-group instead of org.sonatype.oss:oss-parent, please verify your project structure @ line 6, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-client-api-codegen:jar:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-web-plugin-base:pom:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo-web-group:pom:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.visallo:visallo:pom:3.0-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM org.visallo:visallo-root:3.0-SNAPSHOT (/root/visallo/root/pom.xml) points at org.visallo:visallo instead of org.sonatype.oss:oss-parent, please verify your project structure @ org.visallo:visallo-root:3.0-SNAPSHOT, /root/visallo/root/pom.xml, line 5, column 13
+[WARNING] 
+[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+[WARNING] 
+[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+[WARNING] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO] 
+[INFO] Visallo: Web: Client API
+[INFO] Visallo
+[INFO] Visallo: Core Group
+[INFO] Visallo: Core
+[INFO] Visallo: Common
+[INFO] Visallo: Common: RDF
+[INFO] Visallo: Core: Plugins
+[INFO] Visallo: Core: Plugin: Model: Queue: InMemory
+[INFO] Visallo: Core: Plugin: Model: Vertexium
+[INFO] Visallo: Core: Plugin: Model: Vertexium Elasticsearch
+[INFO] Visallo: Core: Plugin: Model: Vertexium InMemory
+[INFO] Visallo: Dev
+[INFO] Visallo: Web
+[INFO] Visallo: Web: Base
+[INFO] Visallo: Web: Server
+[INFO] Visallo: Web: Server: Base
+[INFO] Visallo: Web: Server: Jetty
+[INFO] Visallo: Web: Plugin Base
+[INFO] Visallo: Web: Plugin: Username-only Authentication
+[INFO] Visallo: Web: Plugin: Admin User Tools
+[INFO] Visallo: Web: Plugin: Admin User Tools: User Property Authorization
+[INFO] Visallo: Web: Plugins: Admin Import RDF
+[INFO] Visallo: GraphPropertyWorker
+[INFO] Visallo: GraphPropertyWorker: Plugin Test
+[INFO] Visallo: GraphPropertyWorker: Plugin Base
+[INFO] Visallo: GraphPropertyWorker: Plugin: E-Mail Address Extractor
+[INFO] Visallo: GraphPropertyWorker: Plugin: Mime Type Ontology Mapper
+[INFO] Visallo: GraphPropertyWorker: Plugin: Phone Number Extractor
+[INFO] Visallo: GraphPropertyWorker: Plugin: Tika Mime Type Mapper
+[INFO] Visallo: GraphPropertyWorker: Plugin: Tika Text Extractor
+[INFO] Visallo: GraphPropertyWorker: Plugin: Zip Code Extractor
+[INFO] Visallo: Web: War
+[INFO] Visallo: Dev: Jetty Server
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: Web: Client API 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-client-api ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ visallo-client-api ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/visallo/web/client-api/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ visallo-client-api ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356919901
+[INFO] Executing: /bin/sh -c cd /root/visallo && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: Core Group 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-core-group ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-core-group ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/core && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/core
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356920206
+[INFO] Executing: /bin/sh -c cd /root/visallo/core && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/core
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-core-group ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: Core 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-core ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-core ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/core/core && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/core/core
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356921416
+[INFO] Executing: /bin/sh -c cd /root/visallo/core/core && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/core/core
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-core ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ visallo-core ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 48 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ visallo-core ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: Common 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-common ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-common ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/common && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/common
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356921711
+[INFO] Executing: /bin/sh -c cd /root/visallo/common && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/common
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-common ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: Common: RDF 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-common-rdf ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-common-rdf ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/common/rdf && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/common/rdf
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356921822
+[INFO] Executing: /bin/sh -c cd /root/visallo/common/rdf && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/common/rdf
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-common-rdf ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ visallo-common-rdf ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/visallo/common/rdf/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ visallo-common-rdf ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: Core: Plugins 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-core-plugins-group ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-core-plugins-group ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/core/plugins && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/core/plugins
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356921909
+[INFO] Executing: /bin/sh -c cd /root/visallo/core/plugins && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/core/plugins
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-core-plugins-group ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: Core: Plugin: Model: Queue: InMemory 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-model-queue-inmemory ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-model-queue-inmemory ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/core/plugins/model-queue-inmemory && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/core/plugins/model-queue-inmemory
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356921943
+[INFO] Executing: /bin/sh -c cd /root/visallo/core/plugins/model-queue-inmemory && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/core/plugins/model-queue-inmemory
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-model-queue-inmemory ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ visallo-model-queue-inmemory ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/visallo/core/plugins/model-queue-inmemory/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ visallo-model-queue-inmemory ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: Core: Plugin: Model: Vertexium 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-model-vertexium ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-model-vertexium ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/core/plugins/model-vertexium && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/core/plugins/model-vertexium
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356922081
+[INFO] Executing: /bin/sh -c cd /root/visallo/core/plugins/model-vertexium && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/core/plugins/model-vertexium
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-model-vertexium ---
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:build-classpath (build-classpath) @ visallo-model-vertexium ---
+[INFO] Skipped writing classpath file '/root/visallo/core/plugins/model-vertexium/target/.classpath.root'.  No changes found.
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ visallo-model-vertexium ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/visallo/core/plugins/model-vertexium/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ visallo-model-vertexium ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: Core: Plugin: Model: Vertexium Elasticsearch 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-model-vertexium-elasticsearch ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-model-vertexium-elasticsearch ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/core/plugins/model-vertexium-elasticsearch && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/core/plugins/model-vertexium-elasticsearch
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356923625
+[INFO] Executing: /bin/sh -c cd /root/visallo/core/plugins/model-vertexium-elasticsearch && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/core/plugins/model-vertexium-elasticsearch
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-model-vertexium-elasticsearch ---
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:build-classpath (build-classpath) @ visallo-model-vertexium-elasticsearch ---
+[INFO] Skipped writing classpath file '/root/visallo/core/plugins/model-vertexium-elasticsearch/target/.classpath.root'.  No changes found.
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ visallo-model-vertexium-elasticsearch ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/visallo/core/plugins/model-vertexium-elasticsearch/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ visallo-model-vertexium-elasticsearch ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: Core: Plugin: Model: Vertexium InMemory 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-model-vertexium-inmemory ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-model-vertexium-inmemory ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/core/plugins/model-vertexium-inmemory && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/core/plugins/model-vertexium-inmemory
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356923803
+[INFO] Executing: /bin/sh -c cd /root/visallo/core/plugins/model-vertexium-inmemory && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/core/plugins/model-vertexium-inmemory
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-model-vertexium-inmemory ---
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:build-classpath (build-classpath) @ visallo-model-vertexium-inmemory ---
+[INFO] Skipped writing classpath file '/root/visallo/core/plugins/model-vertexium-inmemory/target/.classpath.root'.  No changes found.
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ visallo-model-vertexium-inmemory ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/visallo/core/plugins/model-vertexium-inmemory/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ visallo-model-vertexium-inmemory ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: Dev 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-dev ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-dev ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/dev && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/dev
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356924021
+[INFO] Executing: /bin/sh -c cd /root/visallo/dev && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/dev
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-dev ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: Web 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-web-group ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-web-group ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/web && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/web
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356924038
+[INFO] Executing: /bin/sh -c cd /root/visallo/web && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/web
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-web-group ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: Web: Base 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-web ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-web ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/web/web-base && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/web/web-base
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356924350
+[INFO] Executing: /bin/sh -c cd /root/visallo/web/web-base && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/web/web-base
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-web ---
+[INFO] 
+[INFO] --- frontend-maven-plugin:0.0.28:install-node-and-npm (install-node-and-npm) @ visallo-web ---
+[INFO] Found proxies: []
+[INFO] Node v6.2.0 is already installed.
+[INFO] Found NPM version 3.8.9
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ visallo-web ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 12 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ visallo-web ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: Web: Server 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-web-server-group ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-web-server-group ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/web/server && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/web/server
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356925497
+[INFO] Executing: /bin/sh -c cd /root/visallo/web/server && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/web/server
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-web-server-group ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: Web: Server: Base 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-web-server-base ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-web-server-base ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/web/server/server-base && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/web/server/server-base
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356925534
+[INFO] Executing: /bin/sh -c cd /root/visallo/web/server/server-base && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/web/server/server-base
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-web-server-base ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ visallo-web-server-base ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/visallo/web/server/server-base/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ visallo-web-server-base ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: Web: Server: Jetty 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-jetty-server ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-jetty-server ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/web/server/jetty-server && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/web/server/jetty-server
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356925921
+[INFO] Executing: /bin/sh -c cd /root/visallo/web/server/jetty-server && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/web/server/jetty-server
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-jetty-server ---
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:build-classpath (build-classpath) @ visallo-jetty-server ---
+[INFO] Skipped writing classpath file '/root/visallo/web/server/jetty-server/target/.classpath.root'.  No changes found.
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ visallo-jetty-server ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ visallo-jetty-server ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: Web: Plugin Base 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-web-plugin-base ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-web-plugin-base ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/web/web-plugin-base && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/web/web-plugin-base
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356926104
+[INFO] Executing: /bin/sh -c cd /root/visallo/web/web-plugin-base && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/web/web-plugin-base
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-web-plugin-base ---
+[INFO] 
+[INFO] --- frontend-maven-plugin:0.0.28:install-node-and-npm (install-node-and-npm) @ visallo-web-plugin-base ---
+[INFO] Found proxies: []
+[INFO] Node v6.2.0 is already installed.
+[INFO] Found NPM version 3.8.9
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: Web: Plugin: Username-only Authentication 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-web-auth-username-only ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-web-auth-username-only ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/web/plugins/auth-username-only && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/web/plugins/auth-username-only
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356926134
+[INFO] Executing: /bin/sh -c cd /root/visallo/web/plugins/auth-username-only && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/web/plugins/auth-username-only
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-web-auth-username-only ---
+[INFO] 
+[INFO] --- frontend-maven-plugin:0.0.28:install-node-and-npm (install-node-and-npm) @ visallo-web-auth-username-only ---
+[INFO] Found proxies: []
+[INFO] Node v6.2.0 is already installed.
+[INFO] Found NPM version 3.8.9
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ visallo-web-auth-username-only ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 5 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ visallo-web-auth-username-only ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: Web: Plugin: Admin User Tools 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-web-plugins-admin-user-tools ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-web-plugins-admin-user-tools ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/web/plugins/admin-user-tools && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/web/plugins/admin-user-tools
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356926386
+[INFO] Executing: /bin/sh -c cd /root/visallo/web/plugins/admin-user-tools && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/web/plugins/admin-user-tools
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-web-plugins-admin-user-tools ---
+[INFO] 
+[INFO] --- frontend-maven-plugin:0.0.28:install-node-and-npm (install-node-and-npm) @ visallo-web-plugins-admin-user-tools ---
+[INFO] Found proxies: []
+[INFO] Node v6.2.0 is already installed.
+[INFO] Found NPM version 3.8.9
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ visallo-web-plugins-admin-user-tools ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 9 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ visallo-web-plugins-admin-user-tools ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: Web: Plugin: Admin User Tools: User Property Authorization 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-web-plugins-admin-user-property-auth ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-web-plugins-admin-user-property-auth ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/web/plugins/admin-user-property-auth && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/web/plugins/admin-user-property-auth
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356926536
+[INFO] Executing: /bin/sh -c cd /root/visallo/web/plugins/admin-user-property-auth && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/web/plugins/admin-user-property-auth
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-web-plugins-admin-user-property-auth ---
+[INFO] 
+[INFO] --- frontend-maven-plugin:0.0.28:install-node-and-npm (install-node-and-npm) @ visallo-web-plugins-admin-user-property-auth ---
+[INFO] Found proxies: []
+[INFO] Node v6.2.0 is already installed.
+[INFO] Found NPM version 3.8.9
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ visallo-web-plugins-admin-user-property-auth ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 5 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ visallo-web-plugins-admin-user-property-auth ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: Web: Plugins: Admin Import RDF 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-web-admin-import-rdf ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-web-admin-import-rdf ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/web/plugins/admin-import-rdf && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/web/plugins/admin-import-rdf
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356926603
+[INFO] Executing: /bin/sh -c cd /root/visallo/web/plugins/admin-import-rdf && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/web/plugins/admin-import-rdf
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-web-admin-import-rdf ---
+[INFO] 
+[INFO] --- frontend-maven-plugin:0.0.28:install-node-and-npm (install-node-and-npm) @ visallo-web-admin-import-rdf ---
+[INFO] Found proxies: []
+[INFO] Node v6.2.0 is already installed.
+[INFO] Found NPM version 3.8.9
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ visallo-web-admin-import-rdf ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 6 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ visallo-web-admin-import-rdf ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: GraphPropertyWorker 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-graph-property-worker-group ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-graph-property-worker-group ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/graph-property-worker && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/graph-property-worker
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356926783
+[INFO] Executing: /bin/sh -c cd /root/visallo/graph-property-worker && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/graph-property-worker
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-graph-property-worker-group ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: GraphPropertyWorker: Plugin Test 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-graph-property-worker-plugin-test ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-graph-property-worker-plugin-test ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/graph-property-worker/graph-property-worker-plugin-test && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/graph-property-worker/graph-property-worker-plugin-test
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356926899
+[INFO] Executing: /bin/sh -c cd /root/visallo/graph-property-worker/graph-property-worker-plugin-test && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/graph-property-worker/graph-property-worker-plugin-test
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-graph-property-worker-plugin-test ---
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:build-classpath (build-classpath) @ visallo-graph-property-worker-plugin-test ---
+[INFO] Skipped writing classpath file '/root/visallo/graph-property-worker/graph-property-worker-plugin-test/target/.classpath.root'.  No changes found.
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ visallo-graph-property-worker-plugin-test ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 4 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ visallo-graph-property-worker-plugin-test ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: GraphPropertyWorker: Plugin Base 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-graph-property-worker-plugin-base ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-graph-property-worker-plugin-base ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/graph-property-worker/graph-property-worker-plugin-base && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/graph-property-worker/graph-property-worker-plugin-base
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356927053
+[INFO] Executing: /bin/sh -c cd /root/visallo/graph-property-worker/graph-property-worker-plugin-base && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/graph-property-worker/graph-property-worker-plugin-base
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-graph-property-worker-plugin-base ---
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:build-classpath (build-classpath) @ visallo-graph-property-worker-plugin-base ---
+[INFO] Skipped writing classpath file '/root/visallo/graph-property-worker/graph-property-worker-plugin-base/target/.classpath.root'.  No changes found.
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: GraphPropertyWorker: Plugin: E-Mail Address Extractor 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-gpw-email-extractor ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-gpw-email-extractor ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/graph-property-worker/plugins/email-extractor && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/graph-property-worker/plugins/email-extractor
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356927117
+[INFO] Executing: /bin/sh -c cd /root/visallo/graph-property-worker/plugins/email-extractor && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/graph-property-worker/plugins/email-extractor
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-gpw-email-extractor ---
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:build-classpath (build-classpath) @ visallo-gpw-email-extractor ---
+[INFO] Skipped writing classpath file '/root/visallo/graph-property-worker/plugins/email-extractor/target/.classpath.root'.  No changes found.
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ visallo-gpw-email-extractor ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ visallo-gpw-email-extractor ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: GraphPropertyWorker: Plugin: Mime Type Ontology Mapper 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-gpw-mime-type-ontology-mapper ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-gpw-mime-type-ontology-mapper ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/graph-property-worker/plugins/mime-type-ontology-mapper && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/graph-property-worker/plugins/mime-type-ontology-mapper
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356927287
+[INFO] Executing: /bin/sh -c cd /root/visallo/graph-property-worker/plugins/mime-type-ontology-mapper && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/graph-property-worker/plugins/mime-type-ontology-mapper
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-gpw-mime-type-ontology-mapper ---
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:build-classpath (build-classpath) @ visallo-gpw-mime-type-ontology-mapper ---
+[INFO] Skipped writing classpath file '/root/visallo/graph-property-worker/plugins/mime-type-ontology-mapper/target/.classpath.root'.  No changes found.
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ visallo-gpw-mime-type-ontology-mapper ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ visallo-gpw-mime-type-ontology-mapper ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: GraphPropertyWorker: Plugin: Phone Number Extractor 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-gpw-phone-number-extractor ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-gpw-phone-number-extractor ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/graph-property-worker/plugins/phone-number-extractor && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/graph-property-worker/plugins/phone-number-extractor
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356927518
+[INFO] Executing: /bin/sh -c cd /root/visallo/graph-property-worker/plugins/phone-number-extractor && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/graph-property-worker/plugins/phone-number-extractor
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-gpw-phone-number-extractor ---
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:build-classpath (build-classpath) @ visallo-gpw-phone-number-extractor ---
+[INFO] Skipped writing classpath file '/root/visallo/graph-property-worker/plugins/phone-number-extractor/target/.classpath.root'.  No changes found.
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ visallo-gpw-phone-number-extractor ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ visallo-gpw-phone-number-extractor ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: GraphPropertyWorker: Plugin: Tika Mime Type Mapper 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-gpw-tika-mime-type ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-gpw-tika-mime-type ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/graph-property-worker/plugins/tika-mime-type && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/graph-property-worker/plugins/tika-mime-type
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356929122
+[INFO] Executing: /bin/sh -c cd /root/visallo/graph-property-worker/plugins/tika-mime-type && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/graph-property-worker/plugins/tika-mime-type
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-gpw-tika-mime-type ---
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:build-classpath (build-classpath) @ visallo-gpw-tika-mime-type ---
+[INFO] Skipped writing classpath file '/root/visallo/graph-property-worker/plugins/tika-mime-type/target/.classpath.root'.  No changes found.
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ visallo-gpw-tika-mime-type ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 2 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ visallo-gpw-tika-mime-type ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: GraphPropertyWorker: Plugin: Tika Text Extractor 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-gpw-tika-text-extractor ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-gpw-tika-text-extractor ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/graph-property-worker/plugins/tika-text-extractor && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/graph-property-worker/plugins/tika-text-extractor
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356929336
+[INFO] Executing: /bin/sh -c cd /root/visallo/graph-property-worker/plugins/tika-text-extractor && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/graph-property-worker/plugins/tika-text-extractor
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-gpw-tika-text-extractor ---
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:build-classpath (build-classpath) @ visallo-gpw-tika-text-extractor ---
+[INFO] Skipped writing classpath file '/root/visallo/graph-property-worker/plugins/tika-text-extractor/target/.classpath.root'.  No changes found.
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ visallo-gpw-tika-text-extractor ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ visallo-gpw-tika-text-extractor ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: GraphPropertyWorker: Plugin: Zip Code Extractor 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-gpw-zipcode-extractor ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-gpw-zipcode-extractor ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/graph-property-worker/plugins/zipcode-extractor && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/graph-property-worker/plugins/zipcode-extractor
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356929439
+[INFO] Executing: /bin/sh -c cd /root/visallo/graph-property-worker/plugins/zipcode-extractor && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/graph-property-worker/plugins/zipcode-extractor
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-gpw-zipcode-extractor ---
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:build-classpath (build-classpath) @ visallo-gpw-zipcode-extractor ---
+[INFO] Skipped writing classpath file '/root/visallo/graph-property-worker/plugins/zipcode-extractor/target/.classpath.root'.  No changes found.
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ visallo-gpw-zipcode-extractor ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ visallo-gpw-zipcode-extractor ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visallo: Web: War 3.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-maven) @ visallo-web-war ---
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create (create-build-number) @ visallo-web-war ---
+[INFO] Checking for local modifications: skipped.
+[INFO] Updating project files from SCM: skipped.
+[INFO] Executing: /bin/sh -c cd /root/visallo/web/war && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/web/war
+[INFO] Storing buildNumber: d82069d4e7873b6c91d8a483e51838ca03d9f2f6 at timestamp: 1474356929507
+[INFO] Executing: /bin/sh -c cd /root/visallo/web/war && git rev-parse --verify HEAD
+[INFO] Working directory: /root/visallo/web/war
+[INFO] Storing buildScmBranch: UNKNOWN
+[INFO] 
+[INFO] --- buildnumber-maven-plugin:1.2:create-timestamp (create-formatted-timestamp) @ visallo-web-war ---
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:build-classpath (build-classpath) @ visallo-web-war ---
+[INFO] Skipped writing classpath file '/root/visallo/web/war/target/.classpath.root'.  No changes found.
+[INFO] 
+[INFO] --- frontend-maven-plugin:0.0.28:npm (install-npm-modules) @ visallo-web-war ---
+[INFO] Found proxies: []
+[INFO] Running 'npm install' in /root/visallo/web/war/src/main/webapp
+[ERROR] npm WARN deprecated minimatch@0.3.0: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+[ERROR] npm WARN lifecycle visallo@~postinstall: cannot run in wd %s %s (wd=%s) visallo@ grunt deps /root/visallo/web/war/src/main/webapp
+[ERROR] npm WARN grunt-amd-wrap@1.0.1 requires a peer of grunt@~0.4.0 but none was installed.
+[INFO] 
+[INFO] --- frontend-maven-plugin:0.0.28:grunt (grunt) @ visallo-web-war ---
+[INFO] Running 'grunt development' in /root/visallo/web/war/src/main/webapp
+[INFO] Running "clean:src" (clean) task
+[INFO] >> 0 paths cleaned.
+[INFO] 
+[INFO] Running "eslint:development" (eslint) task
+[INFO] 
+[INFO] Running "less:development" (less) task
+[INFO] >> FileError: '../libs/@visallo/bootstrap/less/bootstrap.less' wasn't found. Tried - libs/@visallo/bootstrap/less/bootstrap.less,libs/@visallo/bootstrap/less/bootstrap.less,../libs/@visallo/bootstrap/less/bootstrap.less in less/visallo.less on line 29, column 1:
+[INFO] >> 28 // Import bootstrap
+[INFO] >> 29 @import "../libs/@visallo/bootstrap/less/bootstrap.less";
+[INFO] >> 30 #grid {
+[INFO] Warning: Error compiling less/visallo.less Use --force to continue.
+[INFO] 
+[INFO] Aborted due to warnings.
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary:
+[INFO] 
+[INFO] Visallo: Web: Client API ........................... SUCCESS [  2.829 s]
+[INFO] Visallo ............................................ SUCCESS [  1.700 s]
+[INFO] Visallo: Core Group ................................ SUCCESS [  0.021 s]
+[INFO] Visallo: Core ...................................... SUCCESS [  1.483 s]
+[INFO] Visallo: Common .................................... SUCCESS [  0.023 s]
+[INFO] Visallo: Common: RDF ............................... SUCCESS [  0.180 s]
+[INFO] Visallo: Core: Plugins ............................. SUCCESS [  0.019 s]
+[INFO] Visallo: Core: Plugin: Model: Queue: InMemory ...... SUCCESS [  0.069 s]
+[INFO] Visallo: Core: Plugin: Model: Vertexium ............ SUCCESS [  1.238 s]
+[INFO] Visallo: Core: Plugin: Model: Vertexium Elasticsearch SUCCESS [  0.560 s]
+[INFO] Visallo: Core: Plugin: Model: Vertexium InMemory ... SUCCESS [  0.105 s]
+[INFO] Visallo: Dev ....................................... SUCCESS [  0.138 s]
+[INFO] Visallo: Web ....................................... SUCCESS [  0.013 s]
+[INFO] Visallo: Web: Base ................................. SUCCESS [  1.446 s]
+[INFO] Visallo: Web: Server ............................... SUCCESS [  0.017 s]
+[INFO] Visallo: Web: Server: Base ......................... SUCCESS [  0.154 s]
+[INFO] Visallo: Web: Server: Jetty ........................ SUCCESS [  0.344 s]
+[INFO] Visallo: Web: Plugin Base .......................... SUCCESS [  0.110 s]
+[INFO] Visallo: Web: Plugin: Username-only Authentication . SUCCESS [  0.249 s]
+[INFO] Visallo: Web: Plugin: Admin User Tools ............. SUCCESS [  0.154 s]
+[INFO] Visallo: Web: Plugin: Admin User Tools: User Property Authorization SUCCESS [  0.068 s]
+[INFO] Visallo: Web: Plugins: Admin Import RDF ............ SUCCESS [  0.189 s]
+[INFO] Visallo: GraphPropertyWorker ....................... SUCCESS [  0.027 s]
+[INFO] Visallo: GraphPropertyWorker: Plugin Test .......... SUCCESS [  0.229 s]
+[INFO] Visallo: GraphPropertyWorker: Plugin Base .......... SUCCESS [  0.063 s]
+[INFO] Visallo: GraphPropertyWorker: Plugin: E-Mail Address Extractor SUCCESS [  0.171 s]
+[INFO] Visallo: GraphPropertyWorker: Plugin: Mime Type Ontology Mapper SUCCESS [  0.112 s]
+[INFO] Visallo: GraphPropertyWorker: Plugin: Phone Number Extractor SUCCESS [  0.191 s]
+[INFO] Visallo: GraphPropertyWorker: Plugin: Tika Mime Type Mapper SUCCESS [  1.684 s]
+[INFO] Visallo: GraphPropertyWorker: Plugin: Tika Text Extractor SUCCESS [  0.166 s]
+[INFO] Visallo: GraphPropertyWorker: Plugin: Zip Code Extractor SUCCESS [  0.073 s]
+[INFO] Visallo: Web: War .................................. FAILURE [ 29.846 s]
+[INFO] Visallo: Dev: Jetty Server ......................... SKIPPED
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 45.920 s
+[INFO] Finished at: 2016-09-20T10:35:59+03:00
+[INFO] Final Memory: 46M/291M
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal com.github.eirslett:frontend-maven-plugin:0.0.28:grunt (grunt) on project visallo-web-war: Failed to run task: 'grunt development' failed. (error code 6) -> [Help 1]
+org.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal com.github.eirslett:frontend-maven-plugin:0.0.28:grunt (grunt) on project visallo-web-war: Failed to run task
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:212)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:153)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:145)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:116)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:80)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:51)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:307)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:193)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:106)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:863)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:288)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:199)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:289)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:229)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:415)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:356)
+Caused by: org.apache.maven.plugin.MojoFailureException: Failed to run task
+	at com.github.eirslett.maven.plugins.frontend.mojo.AbstractFrontendMojo.execute(AbstractFrontendMojo.java:77)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:134)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:207)
+	... 20 more
+Caused by: com.github.eirslett.maven.plugins.frontend.lib.TaskRunnerException: 'grunt development' failed. (error code 6)
+	at com.github.eirslett.maven.plugins.frontend.lib.NodeTaskExecutor.execute(NodeTaskExecutor.java:60)
+	at com.github.eirslett.maven.plugins.frontend.mojo.GruntMojo.execute(GruntMojo.java:64)
+	at com.github.eirslett.maven.plugins.frontend.mojo.AbstractFrontendMojo.execute(AbstractFrontendMojo.java:75)
+	... 22 more
+[ERROR] 
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+[ERROR] 
+[ERROR] After correcting the problems, you can resume the build with the command
+[ERROR]   mvn <goals> -rf :visallo-web-war
